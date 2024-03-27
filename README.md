@@ -1,8 +1,7 @@
 # anatomy_flutter
 
 <p>
-
-  <img src="https://github.com/Krupaparmar30/anatomy_flutter/assets/149374671/5530668f-dbd5-4fe2-bd07-389b659d6f89"width=22% height=35%>
+<img src="https://github.com/Krupaparmar30/anatomy_flutter/assets/149374671/5530668f-dbd5-4fe2-bd07-389b659d6f89"width=22% height=35%>
 </p>
 A new Flutter project.
 
